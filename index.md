@@ -1,3 +1,0 @@
-## Welcome to GitHub Pages
-
-Also, there is nothing to see here...
